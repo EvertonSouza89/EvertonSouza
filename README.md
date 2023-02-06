@@ -1,6 +1,7 @@
 # Landing page com JavaScript
 
 Projeto de Landing page de uma agência de serviços fictícia chamada XPTO, esse foi um projeto que me ajudou a abrir a mente sobre lógica de programação e também métodos de javascript extremamente funcionais, com Function, uso de "const" ao invés de "let".
+Projeto retirado do curso DevQuest e Figma.
 
 ![xpto 1](https://user-images.githubusercontent.com/117459142/217012610-8c7068ee-29fc-4b2b-9a94-602428314d7e.gif)
 
